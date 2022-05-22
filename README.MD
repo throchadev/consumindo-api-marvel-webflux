@@ -10,3 +10,9 @@
 ![img_1.png](img_1.png)
 
 4. Site para criar o hash: https://blueimp.github.io/JavaScript-MD5/ 
+
+5. Exemplos de chamadas:
+
+http://localhost:8080/marvel/characters/id/1009368
+
+http://localhost:8080/marvel/characters/name/DOCTOR%20STRANGE
