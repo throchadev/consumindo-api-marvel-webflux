@@ -1,7 +1,10 @@
 # Consumindo API da Marvel
 
-1. Para utilizar a API é necessário se cadastrar no link: https://developer.marvel.com/
-2. Após finalizar voce receberá a sua public key e private key.
+1. Para utilizar a API é necessário se cadastrar no link: 
+
+       https://developer.marvel.com/
+
+3. Após finalizar voce receberá a sua public key e private key.
 
 ![img.png](img.png)
 
@@ -9,10 +12,12 @@
 
 ![img_1.png](img_1.png)
 
-4. Site para criar o hash: https://blueimp.github.io/JavaScript-MD5/ 
+4. Site para criar o hash: 
 
-5. Exemplos de chamadas:
+       https://blueimp.github.io/JavaScript-MD5/ 
 
-http://localhost:8080/marvel/characters/id/1009368
+6. Exemplos de chamadas:
 
-http://localhost:8080/marvel/characters/name/DOCTOR%20STRANGE
+       http://localhost:8080/marvel/characters/id/1009368
+
+       http://localhost:8080/marvel/characters/name/DOCTOR%20STRANGE
